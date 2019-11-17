@@ -1,6 +1,6 @@
 # YI4KAPIDemo
 
-Illustrates use of YI 4K action camera [Java API](https://yitechnology.github.io/YIOpenAPIDocs/java). This demo
+Illustrates use of YI 4K action camera [Java API](https://github.com/YITechnology/YIOpenAPI). This demo
 application connects to a YI 4K camera over wifi and continuously records
 [10 second](src/main/java/com/myrosh/yi4kapidemo/CamRig.java#L77) videos.
 
