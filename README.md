@@ -8,7 +8,7 @@ application connects to a YI 4K camera over wifi and continuously records
 
 * Make sure your camera's serial number starts with `Z16V13L`
 * Install custom firmware by downloading `firmware_1.10.50.bin` from [psolyca/Yi_4k_ROOTFS](https://github.com/psolyca/Yi_4k_ROOTFS/releases), renaming the file to `firmware.bin`, copying it to the root of your SD card and restarting the camera
-* Put the camera in stationn mode and connect to your WIFI by creating a file named `wifi.conf` at the root of your SD card that looks like this:
+* Put the camera in station mode and connect to your wireless network by creating a file named `wifi.conf` at the root of your SD card that looks like this:
 ```
 ##### STA mode configuration ##########################################
 # ESSID
