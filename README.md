@@ -17,5 +17,5 @@ a [local Maven dependency](https://stackoverflow.com/questions/4955635/how-to-ad
 YI4KAPIDemo is using [Apache Maven](https://maven.apache.org). You can package and run the application as follows:
 
 ```
-mvn package exec:java -Dexec.mainClass="com.myrosh.yi4kapidemo.App"
+$ mvn package exec:java -Dexec.mainClass="com.myrosh.yi4kapidemo.App"
 ```
