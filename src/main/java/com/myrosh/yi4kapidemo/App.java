@@ -3,8 +3,8 @@ package com.myrosh.yi4kapidemo;
 /**
  * A launcher class for YI4KAPIDemo
  *
- * https://yitechnology.github.io/YIOpenAPIDocs/java
  * https://github.com/YITechnology/YIOpenAPI
+ * https://github.com/psolyca/Yi_4k_ROOTFS
  *
  */
 public class App {
